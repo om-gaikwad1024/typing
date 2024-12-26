@@ -1,4 +1,4 @@
 # typing
-Day 1 done
-Day 2 done
-Day 3 done
+Day 1 Done
+Day 2 Done
+Day 3 Done
